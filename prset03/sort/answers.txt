@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: sorted50000.txt実行時にsort3よりも実行時間が短かったため
+
+sort2 uses: Merge sort
+
+How do you know?: random50000.txtをソートする速度が他に比べてとても速いため。
+
+sort3 uses: Selection sort
+
+How do you know?: sorted50000.txt実行時にsort3よりも実行時間が長かったため
